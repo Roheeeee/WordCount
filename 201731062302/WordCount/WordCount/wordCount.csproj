@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{42D03AB8-32DC-4EE0-AD10-2D1AEA106DE5}</ProjectGuid>
+    <ProjectGuid>{AA3EE2D4-ABB8-4F05-8B5B-8DDC014821D9}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>wordCount</RootNamespace>
-    <AssemblyName>wordCount</AssemblyName>
+    <RootNamespace>WordCount</RootNamespace>
+    <AssemblyName>WordCount</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -31,9 +31,6 @@
     <DefineConstants>TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
-  </PropertyGroup>
-  <PropertyGroup>
-    <StartupObject />
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />

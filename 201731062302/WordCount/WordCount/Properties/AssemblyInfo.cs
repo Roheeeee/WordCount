@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // 有关程序集的一般信息由以下
 // 控制。更改这些特性值可修改
 // 与程序集关联的信息。
-[assembly: AssemblyTitle("wordCount")]
+[assembly: AssemblyTitle("WordCount")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("wordCount")]
+[assembly: AssemblyProduct("WordCount")]
 [assembly: AssemblyCopyright("Copyright ©  2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // 如果此项目向 COM 公开，则下列 GUID 用于类型库的 ID
-[assembly: Guid("42d03ab8-32dc-4ee0-ad10-2d1aea106de5")]
+[assembly: Guid("aa3ee2d4-abb8-4f05-8b5b-8ddc014821d9")]
 
 // 程序集的版本信息由下列四个值组成: 
 //
