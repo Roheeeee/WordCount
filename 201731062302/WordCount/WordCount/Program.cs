@@ -33,7 +33,7 @@ namespace WordCount
             }
         }
 
-        private void BaseCount(List<string> ls)
+        public void BaseCount(List<string> ls)
         {
             try
             {

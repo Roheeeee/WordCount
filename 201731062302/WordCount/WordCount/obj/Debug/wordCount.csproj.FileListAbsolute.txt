@@ -5,3 +5,10 @@ D:\第三次作业\WordCount\WordCount\obj\Debug\WordCount.csprojAssemblyReferen
 D:\第三次作业\WordCount\WordCount\obj\Debug\WordCount.csproj.CoreCompileInputs.cache
 D:\第三次作业\WordCount\WordCount\obj\Debug\WordCount.exe
 D:\第三次作业\WordCount\WordCount\obj\Debug\WordCount.pdb
+D:\第三次作业\WordCount\201731062302\WordCount\WordCount\bin\Debug\WordCount.exe.config
+D:\第三次作业\WordCount\201731062302\WordCount\WordCount\bin\Debug\WordCount.exe
+D:\第三次作业\WordCount\201731062302\WordCount\WordCount\bin\Debug\WordCount.pdb
+D:\第三次作业\WordCount\201731062302\WordCount\WordCount\obj\Debug\WordCount.csprojAssemblyReference.cache
+D:\第三次作业\WordCount\201731062302\WordCount\WordCount\obj\Debug\WordCount.csproj.CoreCompileInputs.cache
+D:\第三次作业\WordCount\201731062302\WordCount\WordCount\obj\Debug\WordCount.exe
+D:\第三次作业\WordCount\201731062302\WordCount\WordCount\obj\Debug\WordCount.pdb
